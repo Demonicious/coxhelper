@@ -2,4 +2,4 @@
 
 A helper for Chambers of Xeric, supports all rooms prayer indicators and more!
 
-![COX Helper](img.jpg)
+![COX Helper](maxresdefault.jpg)
